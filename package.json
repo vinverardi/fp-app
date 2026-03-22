@@ -1,0 +1,19 @@
+{
+  "author": "",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "description": "FutureMessage App",
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "main": "app.js",
+  "name": "fm-app",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "type": "commonjs",
+  "version": "1.0.0"
+}
